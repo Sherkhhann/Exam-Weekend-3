@@ -1,0 +1,4 @@
+﻿### 2 Question
+What is recursion in programming? / Что такое рекурсия в программировании?
+
+Recursion functione ki khudash khudashro faryod mekunad.

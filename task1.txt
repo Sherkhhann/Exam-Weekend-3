@@ -1,0 +1,12 @@
+﻿### 1 Question
+### What is a closure in Python, and can you provide a practical example / Что такое замыкание в Python и можете ли вы привести практический пример?
+
+Closure funksiyae meboshad ki ba mo imkoniyat medihad dar daruni yak function boz function sozem va functioni daruna imkoniyat dorad 
+ki variablehoi functioni berunaro istifoda barad.
+
+def my_print():
+	msg="Hi, bro"
+	
+	def printer():
+		print(msg)
+	return printer
